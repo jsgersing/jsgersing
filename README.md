@@ -27,14 +27,14 @@
 
 ---
 
-### :man_technologist: About Me :
+### 💼: About Me :
 
-Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> living in Portland, OR.
+Aspiring Data Scientist living in the great PNW.
 
 - 👨‍🎓: I’m currently a Data Science learner at BloomTech due to graduate July 1st.
 
-- 🔭: Exploring ML, NLP, CNNs, RNN, and all the other DS acronyms 😜
+- 🔭: Exploring ML, NLP, CNNs, RNN, and all the other DS acronyms 
 
-- 🎷: In my free time, I'm likely playing saxophone or piano or hiking in the Columbia River Gorge.
+- 🎷: In my free time, I'm likely playing saxophone or piano or going for a hike and beers after with my lovely fiancé.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jason-gersing-18133022/)
