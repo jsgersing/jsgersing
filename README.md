@@ -35,9 +35,9 @@ Aspiring Data Scientist living in the great PNW.
 
 - 🛠 Skills: Exploratory Data Analysis | Data Visualization | Linear & Multivariate Regression | Statistical Analysis | Decision Trees & Random Forests | Data Pipelines | Unit Testing | Word Embeddings & Vectorization | Machine Learning | Natural Language Processing | Neural Networks | Deep Learning
 
-- 🌱 I’m currently exploring data science and machine learning career opportunities
+- 🌱 Exploring data science and machine learning career opportunities
 
-- 👨‍🎓: I’m currently a Data Science learner at BloomTech due to graduate July 1st.
+- 👨‍🎓: Currently a Data Science learner at BloomTech due to graduate July 1st.
 
 - 🔭: Exploring ML, NLP, CNNs, RNN, and all the other DS acronyms 
 
