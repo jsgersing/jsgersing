@@ -39,7 +39,7 @@ Aspiring Data Scientist living in the great PNW.
 
 - 👨‍🎓: Currently a Data Science learner at BloomTech due to graduate July 1st.
 
-- 🔭: Exploring ML, NLP, CNNs, RNN, and all the other DS acronyms 
+- 🔭: Exploring ML, NLP, CNNs, RNNs, and all the other DS acronyms 
 
 - 🎷: In my free time, I'm likely playing saxophone or piano or going for a hike and beers after with my lovely fiancé.
 
