@@ -35,11 +35,11 @@ Aspiring Data Scientist living in the great PNW.
 
 - 🛠 Skills: Exploratory Data Analysis | Data Visualization | Linear & Multivariate Regression | Statistical Analysis | Decision Trees & Random Forests | Data Pipelines | Unit Testing | Word Embeddings & Vectorization | Machine Learning | Natural Language Processing | Neural Networks | Deep Learning
 
-- 🌱 Exploring data science and machine learning career opportunities
+- 🔭: To paraphrase Michelangelo, I see the insight in the data and wrangle it until I set it free.
+
+- 🌱 Inspired by the power of Data Science and Machine Learning to inform decisions in both the public and private sectors.
 
 - 👨‍🎓: Currently a Data Science learner at BloomTech due to graduate July 1st.
-
-- 🔭: Exploring ML, NLP, CNNs, RNNs, and all the other DS acronyms 
 
 - 🎷: In my free time, I'm likely playing saxophone or piano or going for a hike and beers after with my lovely fiancé.
 
