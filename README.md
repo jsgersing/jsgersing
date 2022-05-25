@@ -69,6 +69,10 @@ Aspiring Data Scientist living in the great PNW.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" height="40" style="vertical-align:top; margin:4px">          
 </p>
+
+---
+
+[![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsgersing)](https://github.com/jsgersing/github-readme-stats)
+
