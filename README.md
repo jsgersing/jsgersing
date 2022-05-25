@@ -74,5 +74,9 @@ Aspiring Data Scientist living in the great PNW.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsgersing&theme=tokyonight)
+
+---
+
 [![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsgersing)](https://github.com/jsgersing/github-readme-stats)
 
