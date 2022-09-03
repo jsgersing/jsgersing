@@ -41,7 +41,7 @@ Aspiring Data Scientist living in the great PNW.
 
 - 👨‍🎓: Currently a Data Science learner at BloomTech due to graduate July 1st.
 
-- 🎷: In my free time, I'm likely playing saxophone or piano or going for a hike and beers after with my lovely fiancé.
+- 🎷: In my free time, I'm likely playing saxophone or piano or going for a hike and beers after with my lovely wife.
 
 - :mailbox:How to reach me: jsgersing@gmail.com
 
