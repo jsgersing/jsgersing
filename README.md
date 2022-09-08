@@ -29,7 +29,7 @@
 
 ### 💼: About Me :
 
-Aspiring Data Scientist living in the great PNW.
+Data Scientist living in the great PNW.
 
 - 💻 Technologies: Python | SQL & Databases | Flask | Heroku | TensorFlow | Keras | Tableau | Docker
 
@@ -38,8 +38,6 @@ Aspiring Data Scientist living in the great PNW.
 - 🔭: To paraphrase Michelangelo, I see the insight in the data and wrangle it until I set it free.
 
 - 🌱 Inspired by the power of Data Science and Machine Learning to inform decisions in both the public and private sectors.
-
-- 👨‍🎓: Currently a Data Science learner at BloomTech due to graduate July 1st.
 
 - 🎷: In my free time, I'm likely playing saxophone or piano or going for a hike and beers after with my lovely wife.
 
